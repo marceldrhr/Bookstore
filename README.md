@@ -13,6 +13,9 @@
 
 Clone this repository and save it somewhere on your PC
 
+![image](https://user-images.githubusercontent.com/117757816/211346738-11b41c11-5235-4e4e-bb02-b81a5e718118.png)
+
+
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/117757816/211344569-1c75c9df-5ed5-4f8c-95da-b333b4c30092.png">
 
 Select the downloaded the Bookstore-master.zip
