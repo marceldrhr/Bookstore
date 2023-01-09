@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="spa.js"></script>
+        <title>Eine Seite</title>
+    </head>
+    <body>
+        <div id="bookentry" role="page">
+	        Title: <input type="text" value="" id="title" /> <br/>
+	        Author: <input type="text" value="" id="author" /> <br/>
+	        ISBN: <input type="text" value="" id="isbn" /> <br/>
+            <input type="button" value="Save" id="savebtn" />
+        </div>
+
+        <div id="bookconfirm" role="page">
+            <input type="text" value="" id="bookId" readonly/><br/>
+            <input type="text" value="" id="summary" readonly/><br/>
+            <input type="button" value="Back" id="backbtn" />
+        </div>
+
+    </body>
+</html>
