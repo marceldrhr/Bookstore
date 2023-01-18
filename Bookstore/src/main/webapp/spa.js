@@ -18,7 +18,7 @@ $(document).ready(function() {
 		};
 		
 		$.ajax({
-			url: '/Bookstore/service/book',
+			url: '/BookstoreExample/service/book',
 			type: "POST",
 			contentType: "application/json; charset=utf-8",
 			dataType: "json",
